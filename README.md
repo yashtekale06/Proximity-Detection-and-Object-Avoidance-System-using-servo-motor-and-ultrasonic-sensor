@@ -82,7 +82,7 @@ When the object is no longer in the detection range, the system:
   </a>
 </div>
 <h3 align="center">
-  View this project on <a href="https://www.tinkercad.com/things/51DGr1M2U8y/edit" target="_blank">Tinkercad</a>
+  View this project on <a href="https://www.tinkercad.com/things/51DGr1M2U8y-copy-of-smooth-blad-trug" target="_blank">Tinkercad</a>
 </h3>
 
 <p align="center">
