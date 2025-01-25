@@ -1,0 +1,2 @@
+# Proximity-Detection-and-Object-Avoidance-System-using-servo-motor-and-ultrasonic-sensor
+ The Proximity Detection and Object Avoidance System is designed to detect objects within a specified range and trigger a response to avoid them. It uses an HC-SR04 Ultrasonic Sensor, servo motor, LED, and buzzer. This system is ideal for applications like robotic navigation or interactive devices that require automatic object detection
